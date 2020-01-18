@@ -1,0 +1,10 @@
+{
+  "flashcards": [
+    {
+      "Question": "q",
+      "Answer": "a",
+      "Id": 0,
+      "Group": "global"
+    }
+  ]
+}
