@@ -1,9 +1,21 @@
 {
   "flashcards": [
     {
-      "Question": "q",
-      "Answer": "a",
+      "Question": "W którym roku powstał PHP",
+      "Answer": "1995",
       "Id": 0,
+      "Group": "global"
+    },
+    {
+      "Question": "W którym roku powstał JS",
+      "Answer": "1995",
+      "Id": 1,
+      "Group": "global"
+    },
+    {
+      "Question": "W którym roku został ustandaryzowany HTML",
+      "Answer": "1993",
+      "Id": 2,
       "Group": "global"
     }
   ]
